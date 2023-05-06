@@ -1,0 +1,45 @@
+
+/* modifica el ancho y alto del imagenes de HEADER */
+.d-block{
+       width: 400px;
+       height: 300px;
+   }
+/* modifica el ancho y alto del imagenes de LOGO */   
+#logo{
+       height: 50px;
+       width: 80px;
+   }
+/* modifica textos*/
+h4{
+    text-align: center;
+ }  
+p{
+    text-align: justify;
+}
+    
+b{
+    text-align: center;    
+    border-radius: 10px;
+    color: black;
+    
+} 
+.footer{    
+    text-align: center;    
+    border-radius: 10px;
+    color: black;
+   
+        
+   }  
+.footer-logo{
+    height: 30px;
+    width: 30px;
+    float: center;
+}
+ 
+ 
+
+
+
+
+   
+   
